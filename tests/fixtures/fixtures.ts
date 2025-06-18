@@ -14,7 +14,7 @@ export const test = base.extend<MyFixtures>({
     const mainPage = new MainPage(page);
     await mainPage.open();
     await mainPage.clozeCookieAlert();
-    await mainPage.clozeAdvertisingBanner();
+    await mainPage.clozeBanner();
     // Use the fixture value in the test.
     await use(mainPage);
   },

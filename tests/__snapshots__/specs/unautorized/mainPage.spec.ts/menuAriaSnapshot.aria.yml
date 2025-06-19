@@ -36,8 +36,8 @@
       - link "RUTUBE x PREMIER …":
         - /url: /feeds/premier/
     - listitem:
-      - link "День России …":
-        - /url: /feeds/12june/
+      - link /ПМЭФ-\d+ …/:
+        - /url: /feeds/spief25/
   - separator
   - list:
     - listitem:

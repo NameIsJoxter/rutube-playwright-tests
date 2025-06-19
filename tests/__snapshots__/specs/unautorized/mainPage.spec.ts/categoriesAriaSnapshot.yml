@@ -1,5 +1,3 @@
-- button
-- button
 - list:
   - listitem:
     - link "Главная":
@@ -7,9 +5,6 @@
   - listitem:
     - link "Рекомендации":
       - /url: /feeds/new_main_page/for-you/
-  - listitem:
-    - link "День России":
-      - /url: /feeds/12june/
   - listitem:
     - link "Фильмы":
       - /url: /feeds/new_main_page/movies/

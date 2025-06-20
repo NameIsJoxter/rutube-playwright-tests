@@ -1,16 +1,24 @@
 import { test, expect } from '../../fixtures/fixtures';
-import { MainPage } from '../../pages/MainPage';
 
-test('Проверка доступности элементов хедера', async ({ mainPage }) => {
+test('Проверка доступности элементов хедера авторизованному пользователю', async ({ mainPage }) => {
   await mainPage.headerHasCorrectAriaSnapshot();
 });
 
-test('Проверка доступности элементов поп-апа уведомлений', async ({ mainPage }) => {
+test('Проверка доступности элементов поп-апа уведомлений авторизованному пользователю', async ({
+  mainPage,
+}) => {
   await mainPage.openNotificationPopUp();
   await mainPage.notificationPopUpHasCorrectAreaSnapshot();
 });
 
-test('Проверка доступности элементов раскрытого меню', async ({ mainPage }) => {
+test('Проверка доступности элементов раскрытого меню вторизованному пользователю', async ({
+  mainPage,
+}) => {
   await mainPage.openFullMenu();
   await mainPage.fullMenuHasCorrectAreaSnapshot();
+});
+
+test('Проверка доступности элементов меню пользователя в хедере', async ({ mainPage }) => {
+  await mainPage.openHeaderUserMenu();
+  await mainPage.headerUserMenuHasCorrectAreaSnapshot();
 });

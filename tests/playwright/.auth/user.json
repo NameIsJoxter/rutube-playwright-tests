@@ -1,0 +1,470 @@
+{
+  "cookies": [
+    {
+      "name": "gid_sso",
+      "value": "false",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "qrator_msid2",
+      "value": "v2.0.1750423730.281.5f18eaf6LTRndxvn|h9BrMqoOIU8tu5JD|Y5Oy2QdDD9J9m8X8x4e91fweB5EWrnUpxlKpm5bGTJJ9qxutOrc3rIGIOlPf3NedhmfL4qhsVJ6Iw9aX66g8wA==-jWeq/z5ScjclKV/U7UotvUbmNa4=",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1750424730.294069,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "i",
+      "value": "eZ8UuNDCUpMYI3oZoQANC0wWwbXRS6REmvPZJGGRnodddoIvCY8lyuNwRaJ7/Y2rIVN3ZiTaOaP/+7AKX+Ri0XvEDLE=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1784983730.520122,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "value": "4249767301750423730",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1784983731.22039,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "value": "4231976381750423730",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1781959730.520176,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid",
+      "value": "b0256875-ee41-41b7-b3ca-0f8b3bc079d1",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1784983733.226203,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uxs_uid",
+      "value": "ea7b9ae0-4dd4-11f0-817f-43b1eb1fa12e",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1784983731,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1750423731526293087",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1781959731,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1750423731",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1781959731,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "value": "4249767301750423730",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1784983731.220446,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "value": "2065783731.yrts.1750423731",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1781959731,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1781959737,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yabs-sid",
+      "value": "620283611750423731",
+      "domain": "mc.yandex.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "session_id",
+      "value": "16430608651750423731_1750423731276",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1750425537,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "canary1",
+      "value": "{\"mainpage\":{\"active\":\"B\",\"term\":[{\"id\":29,\"label\":\"A\",\"percent\":0},{\"id\":30,\"label\":\"B\",\"percent\":50},{\"id\":31,\"label\":\"C\",\"percent\":50},{\"id\":32,\"label\":\"D\",\"percent\":50},{\"id\":33,\"label\":\"E\",\"percent\":100}]},\"personalrec\":{\"active\":\"C\",\"term\":[{\"id\":34,\"label\":\"A\",\"percent\":0},{\"id\":35,\"label\":\"B\",\"percent\":0},{\"id\":36,\"label\":\"C\",\"percent\":100},{\"id\":37,\"label\":\"D\",\"percent\":100}]},\"tags_predicto\":{\"active\":\"A\",\"term\":[{\"id\":44,\"label\":\"A\",\"percent\":100},{\"id\":45,\"label\":\"B\",\"percent\":100}]},\"new_player\":{\"active\":\"A\",\"term\":[{\"id\":50,\"label\":\"A\",\"percent\":100},{\"id\":51,\"label\":\"B\",\"percent\":100}]},\"premier\":{\"active\":\"D\",\"term\":[{\"id\":46,\"label\":\"A\",\"percent\":0},{\"id\":47,\"label\":\"B\",\"percent\":0},{\"id\":48,\"label\":\"C\",\"percent\":0},{\"id\":49,\"label\":\"D\",\"percent\":100}]}}",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1769904000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vpn-status",
+      "value": "requested",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1750495731,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "smi_uid",
+      "value": "dTKuqYZUR",
+      "domain": ".24smi.net",
+      "path": "/",
+      "expires": 1781959731.979918,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guid",
+      "value": "8E037103685558B4X1750423732",
+      "domain": ".tns-counter.ru",
+      "path": "/",
+      "expires": 1781959732.634553,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_visorc",
+      "value": "b",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1750425533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1750423734781887616",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1781959733,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1750423734",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1781959733,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1750495733,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_visorc",
+      "value": "b",
+      "domain": ".smartcaptcha.yandexcloud.net",
+      "path": "/",
+      "expires": 1750425534,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "jwt",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydXBhc3NfaWQiOjYxMDM0Njk0LCJlbWFpbF9jb25maXJtZWQiOnsidHlwZW9mIjoiYm9vbCIsInZhbHVlIjpmYWxzZX0sImhhc19waG9uZSI6eyJ0eXBlb2YiOiJib29sIiwidmFsdWUiOnRydWV9LCJleHAiOjE3NTMwMTU3MzUsIm9yaWdfaWF0IjoxNzUwNDIzNzM1LCJ1c2VyX2lkIjo2NTcxNTQ2MiwiZGF0YSI6eyJ1c2VyX2luZm8iOnsiaWQiOjY1NzE1NDYyfX0sInVzZXJuYW1lIjpudWxsLCJlbWFpbCI6bnVsbCwibmFtZSI6IiJ9.lwKMPkC_MeqBOyBbSOd_0UjllNag4cuh8zVrJIrXgTs",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1753015735.541622,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "refreshToken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydXBhc3NfaWQiOjYxMDM0Njk0LCJleHAiOjE3NTU2MDc3MzUsInJlcXVlc3RfaWQiOiIxOGVkYTQyOS1mZTkyLTQ4ZTItYjY2Zi03NmM0OTVlYTVhNDAifQ.JSL5EyJg7uJA0pzbATRlK94Pf_-WZjOBTI5iHnr4SbM",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1755607735.541708,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitorID",
+      "value": "65715462",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1755607735.541734,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csrftoken",
+      "value": "SOibt81vzbBSfHkUzyGAg6CgZpZQKNBY",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": 1781873335.541755,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "psid2",
+      "value": "uv01v10fnuy5nba5x4vhps0abhjrttuj",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1752842936.539091,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bh",
+      "value": "EkAiIE5vdCBBO0JyYW5kIjt2PSI5OSIsIkNocm9taXVtIjt2PSIxMzgiLCJHb29nbGUgQ2hyb21lIjt2PSIxMzgiGgN4ODYiDTEzOC4wLjcyMDQuMjMqAj8wOgdXaW5kb3dzQgQxMC4wSgI2NFJZIk5vdClBO0JyYW5kIjt2PSI4LjAuMC4wIiwiQ2hyb21pdW0iO3Y9IjEzOC4wLjcyMDQuMjMiLCJIZWFkbGVzc0Nocm9tZSI7dj0iMTM4LjAuNzIwNC4yMyJgubHVwgZqHtzK4f8IktihsQOfz+HqA/v68OcN6//99g/dqc2HCA==",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1784983737,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cid",
+      "value": "16430608651750423731",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1784983737,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://rutube.ru",
+      "localStorage": [
+        {
+          "name": "_ym_retryReqs",
+          "value": "{\"1\":{\"protocol\":\"https:\",\"host\":\"mc.yandex.ru\",\"resource\":\"watch/94863760\",\"time\":1750423737583,\"counterType\":\"0\",\"params\":{\"page-url\":\"https://rutube.ru/profile/info/\",\"page-ref\":\"https://rutube.ru/profile/\",\"charset\":\"utf-8\",\"site-info\":\"{\\\"pageview\\\":{\\\"cid\\\":\\\"16430608651750423731\\\",\\\"session_id\\\":\\\"16430608651750423731_1750423731276\\\",\\\"sso_source\\\":\\\"rutube\\\",\\\"screen_name\\\":\\\"/profile/info/\\\",\\\"page_url\\\":\\\"https://rutube.ru/profile/info/\\\",\\\"event_timestamp\\\":\\\"1750423737520\\\",\\\"event_timezone\\\":\\\"3\\\",\\\"user_auth\\\":\\\"1\\\",\\\"user_id\\\":\\\"65715462\\\",\\\"uuid\\\":\\\"b0256875-ee41-41b7-b3ca-0f8b3bc079d1\\\",\\\"user_subscription\\\":\\\"0\\\",\\\"user_subscription_id\\\":\\\"na\\\",\\\"device_type\\\":\\\"desktop\\\",\\\"isEmbed\\\":\\\"0\\\",\\\"touch_point\\\":\\\"web\\\",\\\"ab_name\\\":\\\"50859f99-2c55-4e81.1|4526ffa6-5013-46d8.1|7bddd0c1-0a11-4c03.0|e1aa773e-0513-425a.0\\\",\\\"event_name\\\":\\\"pageview\\\",\\\"event_group\\\":\\\"pageview\\\",\\\"channel_id\\\":\\\"na\\\",\\\"content_playlist_id\\\":\\\"na\\\",\\\"content_id\\\":\\\"na\\\",\\\"event_json\\\":\\\"na\\\",\\\"ab_variant\\\":\\\"na\\\",\\\"content_category_id\\\":\\\"na\\\",\\\"content_in_list_position\\\":\\\"na\\\",\\\"content_list_id\\\":\\\"na\\\",\\\"content_list_position\\\":\\\"na\\\",\\\"content_subcategory_id\\\":\\\"na\\\",\\\"content_type\\\":\\\"na\\\",\\\"content_subscription\\\":\\\"na\\\",\\\"event_action\\\":\\\"na\\\",\\\"event_category\\\":\\\"na\\\",\\\"event_context\\\":\\\"na\\\",\\\"event_element_link\\\":\\\"na\\\",\\\"event_element_location\\\":\\\"na\\\",\\\"event_label\\\":\\\"na\\\",\\\"event_revenue\\\":\\\"na\\\",\\\"player_view_id\\\":\\\"na\\\",\\\"sso_id\\\":\\\"na\\\"}}\",\"uah\":\"chu\\n\\\" Not A;Brand\\\";v=\\\"99\\\",\\\"Chromium\\\";v=\\\"138\\\",\\\"Google Chrome\\\";v=\\\"138\\\"\\ncha\\nx86\\nchb\\n64\\nchf\\n138.0.7204.23\\nchl\\n\\\"Not)A;Brand\\\";v=\\\"8.0.0.0\\\",\\\"Chromium\\\";v=\\\"138.0.7204.23\\\",\\\"HeadlessChrome\\\";v=\\\"138.0.7204.23\\\"\\nchm\\n?0\\nchp\\nWindows\\nchv\\n10.0\",\"hittoken\":\"1750423731_48bffed5883eee43df061d784095ba8b285ed9f5b018530795578edbb5aea05a\"},\"browserInfo\":{\"pv\":1,\"ar\":1,\"vf\":\"i3icr3vaukx00koh2iazxz1qw8kf\",\"fu\":1,\"en\":\"utf-8\",\"la\":\"en-US\",\"v\":\"2091\",\"cn\":2,\"dp\":0,\"ls\":1149994943085,\"hid\":77601149,\"z\":180,\"i\":\"20250620154857\",\"et\":1750423738,\"c\":1,\"rn\":277491070,\"rqn\":15,\"u\":\"1750423731526293087\",\"w\":\"1280x720\",\"s\":\"1280x720x24\",\"sk\":1,\"wv\":2,\"co\":0,\"cpf\":1,\"eu\":0,\"ns\":1750423730071,\"t\":\"Видеохостинг RUTUBE. Смотрите видео онлайн, бесплатно.\",\"adb\":\"2\",\"pp\":\"3629563401\",\"rqnl\":1,\"st\":1750423738},\"counterId\":94863760,\"ghid\":77601149,\"telemetry\":{\"gdpr\":\"14\",\"mc\":\"ci-1-h-4-g-10\",\"clc\":\"8-1070-85\",\"rqnt\":7,\"aw\":1,\"rcm\":1,\"ecs\":0,\"cdl\":\"na\",\"eco\":46203396,\"oms\":0,\"prs\":1,\"ti\":1}}}"
+        },
+        {
+          "name": "UXS_session_value",
+          "value": "6"
+        },
+        {
+          "name": "_ym94863760_lsid",
+          "value": "1149994943085"
+        },
+        {
+          "name": "sigmaUserData",
+          "value": "{\"userId\":\"16430608651750423731\",\"profileId\":\"65715462\",\"deviceId\":null,\"ip\":null,\"email\":null,\"appVersion\":null,\"geo\":{},\"browser\":{\"name\":\"Chrome\",\"version\":\"138.0.7204.23\"},\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"custom\":{},\"time\":486228.81420555554,\"date\":20259,\"deviceCategory\":\"desktop\",\"domain\":\"rutube.ru\",\"url\":\"https://rutube.ru/\",\"query\":\"\",\"pathname\":\"/\"}"
+        },
+        {
+          "name": "current_session_id",
+          "value": "16430608651750423731_1750423731276"
+        },
+        {
+          "name": "sigmaDataFile",
+          "value": "{\"experiments\":[{\"name\":\"45e2d072-ee64-4dc7\",\"is_private\":true,\"salt\":\"1b6b908923d42130054ed61a805085f3cd6d8b98\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.3,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.7,\"forced_user_list\":[]}],\"params\":[],\"feature_flags\":[{\"name\":\"os_bal\",\"type\":\"string\",\"groups\":[{\"group\":\"a\",\"rules\":[{\"id\":\"49335601-8b6c-49f8-8226-15ee0fd4e5c7\",\"is_default\":true,\"value\":\"a\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"b\",\"rules\":[{\"id\":\"1e9e3928-5115-4e93-8ca5-46fbf4c322ac\",\"is_default\":true,\"value\":\"b\",\"conditional_statement\":\"OR\",\"conditions\":[]}]}]}],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"ee369dd4-2d2a-4ed0-a01e-e21d9ac07b71\",\"name\":\"os.name\",\"condition_sign\":\"equal\",\"value\":\"1bdf605991920db11cbdf8508204c4eb\"},{\"id\":\"7855aecb-2ac6-4eb2-9012-30ca745b9447\",\"name\":\"os.version\",\"condition_sign\":\"any of\",\"value\":[\"6f4922f45568161a8cdf4ad2299f6d23\"]}],\"conditional_statement\":\"AND\"},\"split_by\":\"profileId\",\"type\":1},{\"name\":\"c4ee278f-20fd-4d71\",\"is_private\":true,\"salt\":\"07ce3978f0d4933eff3112ec4967769f5eaa5d0e\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[{\"name\":\"city\",\"type\":\"number\",\"id\":\"aca8042f-a7df-41b8-8f77-ba146821e707\",\"values\":[{\"group\":\"a\",\"value\":\"3\"},{\"group\":\"b\",\"value\":\"4\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"e7fe3940-3f2e-4d1d-803a-36fea04306a4\",\"name\":\"geo.city\",\"condition_sign\":\"equal\",\"value\":\"7e35e74e610188414ad24235dd787c78\"},{\"id\":\"52186626-75b3-445f-83e6-73533aa35481\",\"name\":\"date\",\"condition_sign\":\"on date\",\"value\":\"2025-06-07\"}],\"conditional_statement\":\"AND\"},\"split_by\":\"userId\",\"type\":2},{\"name\":\"1b2080a5-b6b0-4494\",\"is_private\":true,\"salt\":\"9437c133a88cb8ac0bfec66ade379cd042d3e8da\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.33,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.33,\"forced_user_list\":[]},{\"name\":\"c\",\"weight\":0.34,\"forced_user_list\":[]}],\"params\":[{\"name\":\"cctr\",\"type\":\"number\",\"id\":\"946dca3e-43c4-4349-b4a7-42eeb87d87bb\",\"values\":[{\"group\":\"a\",\"value\":\"1\"},{\"group\":\"b\",\"value\":\"2\"},{\"group\":\"c\",\"value\":\"3\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"33333809-cb5b-4eff-81cd-0d51318dbafa\",\"name\":\"geo.country\",\"condition_sign\":\"not equal\",\"value\":\"07d62aa19a9a95c07515769b604bad36\"},{\"id\":\"1de16f63-09ea-4d6c-b729-c7c0ba701b7a\",\"name\":\"pathname\",\"condition_sign\":\"equal\",\"value\":\"453c97deacdfd17fcf40c7e01953b9f7\"}],\"conditional_statement\":\"AND\"},\"split_by\":\"userId\",\"type\":2},{\"name\":\"50859f99-2c55-4e81\",\"is_private\":true,\"salt\":\"97f1148daf7b30b9f05482db6479f4277473d7c2\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[],\"feature_flags\":[{\"name\":\"varrr\",\"type\":\"string\",\"groups\":[{\"group\":\"a\",\"rules\":[{\"id\":\"1c87dace-c45b-41ec-9045-56ba9752491a\",\"is_default\":true,\"value\":\"a\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"b\",\"rules\":[{\"id\":\"6dd19231-93eb-44cb-ad10-905a3f255bb3\",\"is_default\":true,\"value\":\"b\",\"conditional_statement\":\"OR\",\"conditions\":[]}]}]}],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"2b0c9444-e05b-494d-b49b-c258f26cb553\",\"name\":\"time\",\"condition_sign\":\"after time\",\"value\":\"2025-06-08T09:00\"}],\"conditional_statement\":\"OR\"},\"split_by\":\"profileId\",\"type\":1},{\"name\":\"dcab6334-2f6f-4f2b\",\"is_private\":true,\"salt\":\"67c429ba66cc1dc6b8be4b8c1f3914145eb897a0\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[{\"name\":\"a\",\"type\":\"string\",\"id\":\"6316f075-1540-4225-b8ee-76ec97a6f491\",\"values\":[{\"group\":\"a\",\"value\":\"a\"},{\"group\":\"b\",\"value\":\"b\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"ea8ff367-4a0b-4f16-9d63-d1b9d2f4df91\",\"name\":\"url\",\"condition_sign\":\"equal\",\"value\":\"70cdaae7bf4ab0d569f7497a915b5d0a\"},{\"id\":\"a59496d4-a251-448c-926a-5a1bcb10d52f\",\"name\":\"url\",\"condition_sign\":\"contains\",\"value\":\"serials\"}],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":2},{\"name\":\"4526ffa6-5013-46d8\",\"is_private\":true,\"salt\":\"4a2e8318fb4e34862b28e80f682697e769f72e6e\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[{\"name\":\"test\",\"type\":\"string\",\"id\":\"ba434547-f97d-4fe6-b304-50b9a170526d\",\"values\":[{\"group\":\"a\",\"value\":\"а\"},{\"group\":\"b\",\"value\":\"b\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"18992a5e-ab92-438d-87d1-44ca6d69dd99\",\"name\":\"deviceCategory\",\"condition_sign\":\"equal\",\"value\":\"b2c79ad7dcf03ba266dc0885e1266675\"},{\"id\":\"00654f82-4a8f-4fab-aef6-395b5b01b6e4\",\"name\":\"deviceCategory\",\"condition_sign\":\"equal\",\"value\":\"532c28d5412dd75bf975fb951c740a30\"}],\"conditional_statement\":\"OR\"},\"split_by\":\"profileId\",\"type\":2},{\"name\":\"7bddd0c1-0a11-4c03\",\"is_private\":true,\"salt\":\"2238fc4884f5c84b6de7ba9b633ccffdc04106b5\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[{\"name\":\"test\",\"type\":\"string\",\"id\":\"d0e98ae2-bf71-4619-85cd-fb495fd1217d\",\"values\":[{\"group\":\"a\",\"value\":\"test1\"},{\"group\":\"b\",\"value\":\"test2\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":2},{\"name\":\"e1aa773e-0513-425a\",\"is_private\":true,\"salt\":\"c015a4d597aab4007760e547d44ba39f92b77c98\",\"layer_id\":\"66431f8e3ef99ae0754e53e259602b3fcea60303\",\"layer_allocation\":0.3,\"layer_bounds\":[{\"lower_bound\":0,\"upper_bound\":299}],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[{\"name\":\"lay\",\"type\":\"string\",\"id\":\"6ddec91a-fd9f-4cad-ab86-05d6c6bbaac4\",\"values\":[{\"group\":\"a\",\"value\":\"on\"},{\"group\":\"b\",\"value\":\"off\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"5667fb6a-9c02-4a5b-9ce4-ee4c428a85ae\",\"name\":\"deviceCategory\",\"condition_sign\":\"equal\",\"value\":\"b2c79ad7dcf03ba266dc0885e1266675\"}],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":2},{\"name\":\"9f8a2a9e-9347-43c6\",\"is_private\":true,\"salt\":\"2130f0624cb0cea74849fc0bdb08d93202a5b315\",\"layer_id\":\"66431f8e3ef99ae0754e53e259602b3fcea60303\",\"layer_allocation\":0.3,\"layer_bounds\":[{\"lower_bound\":300,\"upper_bound\":599}],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[],\"feature_flags\":[{\"name\":\"brows\",\"type\":\"string\",\"groups\":[{\"group\":\"a\",\"rules\":[{\"id\":\"48253572-bc33-4720-9f2e-8d80fda86588\",\"is_default\":true,\"value\":\"false\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"b\",\"rules\":[{\"id\":\"f5d44895-7259-43a0-a483-84d8913eeb40\",\"is_default\":true,\"value\":\"true\",\"conditional_statement\":\"OR\",\"conditions\":[]}]}]}],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"8c056e39-bc92-4265-af3e-80d652f7f842\",\"name\":\"browser.name\",\"condition_sign\":\"equal\",\"value\":\"0c0a230358d00f0fcf81c28d23bf6e8c\"}],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":1},{\"name\":\"6b30ad78-3208-4bef\",\"is_private\":true,\"salt\":\"002b3e83f3acb94f9a1cc26e58e0c4180aec0ca7\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":0.25,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[],\"feature_flags\":[{\"name\":\"mob_alloc\",\"type\":\"string\",\"groups\":[{\"group\":\"a\",\"rules\":[{\"id\":\"5f795dea-f23d-40ac-a900-8172ee60b731\",\"is_default\":true,\"value\":\"a\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"b\",\"rules\":[{\"id\":\"46799dad-993e-43e8-aed4-4fb6dfa7cdf1\",\"is_default\":true,\"value\":\"b\",\"conditional_statement\":\"OR\",\"conditions\":[]}]}]}],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[{\"id\":\"38f1d407-5f68-4c38-9b9f-d93c9d9433e6\",\"name\":\"deviceCategory\",\"condition_sign\":\"equal\",\"value\":\"532c28d5412dd75bf975fb951c740a30\"}],\"conditional_statement\":\"OR\"},\"split_by\":\"profileId\",\"type\":1}],\"feature_flags\":[{\"name\":\"var\",\"type\":\"string\",\"is_private\":true,\"rules\":[{\"id\":\"52A1E4E9-EEF1-4164-AFDF-FC7F3BCBF4CF\",\"is_default\":true,\"value\":\"\",\"conditional_statement\":\"-\",\"conditions\":[]}]},{\"name\":\"f_var\",\"type\":\"string\",\"is_private\":true,\"rules\":[{\"id\":\"02BE6F0E-1C16-4D98-BADF-ACB0A3DF6F09\",\"is_default\":true,\"value\":\"\",\"conditional_statement\":\"-\",\"conditions\":[]}]}]}"
+        },
+        {
+          "name": "sigmaPrivateId",
+          "value": "Fr7DibcjFAlPD2qUY7O4MRvc9rfKD7PsWHfgQtOQCO1cTD0N4UyADPqL2402Fv3plzkMIWSMLnlwDBWi"
+        },
+        {
+          "name": "sigmaExperiments",
+          "value": "50859f99-2c55-4e81.1|4526ffa6-5013-46d8.1|7bddd0c1-0a11-4c03.0|e1aa773e-0513-425a.0"
+        },
+        {
+          "name": "_ym53182297_il",
+          "value": "\"Профиль\""
+        },
+        {
+          "name": "_ym94863760_il",
+          "value": "\"Профиль\""
+        },
+        {
+          "name": "sigmaHash",
+          "value": "b5414ee02dddeec2965584440cbf61da12c3a18a880878683cf5a9fd647394a9"
+        },
+        {
+          "name": "_ym_synced",
+          "value": "{}"
+        },
+        {
+          "name": "_ym87342106_lsid",
+          "value": "1478120857567"
+        },
+        {
+          "name": "msncsite",
+          "value": "BDC27103685558B4G1750423732"
+        },
+        {
+          "name": "profile-interestsTooltip",
+          "value": "show"
+        },
+        {
+          "name": "UXS_updated_time",
+          "value": "1750423737085"
+        },
+        {
+          "name": "header-interestsTooltip",
+          "value": "hidden"
+        },
+        {
+          "name": "fingerprintId",
+          "value": "2b5d816d73bcbe1716089fc196ee8f8b"
+        },
+        {
+          "name": "_ym53182297_lsid",
+          "value": "1127861577589"
+        },
+        {
+          "name": "session_id",
+          "value": "{\"value\":\"16430608651750423731_1750423731276\",\"expires\":\"2025-06-20T13:18:57.520Z\"}"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1750423731526293087\""
+        },
+        {
+          "name": "uxs_uid",
+          "value": "{\"ea7b9ae0-4dd4-11f0-817f-43b1eb1fa12e\":1750423731086}"
+        },
+        {
+          "name": "_ym94863760:0_reqNum",
+          "value": "15"
+        },
+        {
+          "name": "cid",
+          "value": "16430608651750423731"
+        },
+        {
+          "name": "msncsync",
+          "value": "BDC27103685558B4G1750423732"
+        },
+        {
+          "name": "sigmaDataFileLastUpdate",
+          "value": "1750423732"
+        },
+        {
+          "name": "_ym53182297:0_reqNum",
+          "value": "24"
+        },
+        {
+          "name": "_ym_wv2rf:94863760:0",
+          "value": "1"
+        },
+        {
+          "name": "sigmaGeoData",
+          "value": "{\"country\":\"Russian Federation\",\"code\":\"RU\",\"state\":\"Moskva\",\"city\":\"Moscow\",\"ip\":\"95.24.234.246\"}"
+        },
+        {
+          "name": "sigmaExpiration",
+          "value": "{\"profileId\":1750510136055}"
+        }
+      ]
+    },
+    {
+      "origin": "https://smartcaptcha.yandexcloud.net",
+      "localStorage": [
+        {
+          "name": "_ym_synced",
+          "value": "{}"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1750423734781887616\""
+        },
+        {
+          "name": "_ym_retryReqs",
+          "value": "{}"
+        },
+        {
+          "name": "_ym_wv2rf:93891318:0",
+          "value": "1"
+        },
+        {
+          "name": "_ym93891318_lsid",
+          "value": "954329250703"
+        },
+        {
+          "name": "_ym93891318:0_reqNum",
+          "value": "2"
+        }
+      ]
+    }
+  ]
+}

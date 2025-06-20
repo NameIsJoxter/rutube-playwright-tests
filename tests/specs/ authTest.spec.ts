@@ -47,7 +47,7 @@ test('test', async () => {
     .getByRole('button', { name: 'Войти', exact: true })
     .click();
   await page.getByAltText('Иконка канала channel65715462').click();
-  await page.locator('a').filter({ hasText: 'Профиль' }).click();
+  await page.locator('a').filter({ hasText: 'Профиль' }).nth(0).click();
 
   await page.context().storageState({ path: authFile });
 });

@@ -52,16 +52,6 @@ export class MainPage extends BasePage {
   async open() {
     await this.page.goto('https://rutube.ru/');
   }
-  async clozeCookieAlert() {
-    await this.page.getByLabel('Уведомление об использовании cookies').locator('button').click();
-    await expect.soft(this.page.getByLabel('Уведомление об использовании cookies')).toBeHidden();
-  }
-  async clozeBanner() {
-    if (await this.page.locator('.wdp-popup-module__popup').isVisible()) {
-      await this.page.getByRole('button', { name: 'Закрыть' }).click();
-      await expect.soft(this.page.locator('.wdp-popup-module__popup')).toBeHidden();
-    }
-  }
   async openHeaderUserMenu() {
     await this.page.getByAltText('Иконка канала channel65715462').click();
   }

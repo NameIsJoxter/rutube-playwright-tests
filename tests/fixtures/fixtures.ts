@@ -1,9 +1,12 @@
 import { test as base } from '@playwright/test';
 import { MainPage } from '../pages/MainPage';
+import { BasePage } from '../pages/BasePage';
+import { CategoriesPage } from '../pages/CategoriesPage';
 
 // Declare the types of your fixtures.
 type MyFixtures = {
   mainPage: MainPage;
+  categoriesPage: CategoriesPage;
 };
 
 // Extend base test by providing "todoPage" and "settingsPage".
@@ -17,6 +20,14 @@ export const test = base.extend<MyFixtures>({
     await mainPage.clozeBanner();
     // Use the fixture value in the test.
     await use(mainPage);
+  },
+  categoriesPage: async ({ page }, use) => {
+    const categoriesPage = new CategoriesPage(page);
+    await categoriesPage.open();
+    await categoriesPage.clozeBanner();
+    await categoriesPage.clozeCookieAlert();
+
+    await use(categoriesPage);
   },
 });
 export { expect } from '@playwright/test';

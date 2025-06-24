@@ -16,7 +16,7 @@ export class BasePage {
       .toBeHidden();
   }
   async clozeBanner() {
-    if (await this.page.locator('.wdp-popup-module__popup').isVisible()) {
+    if (await this.page.locator('.wdp-popup-module__popup').isVisible({ timeout: 20_000 })) {
       await this.page.getByRole('button', { name: 'Закрыть' }).click();
       await expect.soft(this.page.locator('.wdp-popup-module__popup')).toBeHidden();
     }
